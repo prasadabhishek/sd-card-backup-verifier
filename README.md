@@ -24,3 +24,6 @@ uv run scripts/sd_verify.py report \
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
